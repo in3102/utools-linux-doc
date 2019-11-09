@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "pluginName": "Linux 命令文档",
+    "description": "Linux 命令文档",
+    "author": "uTools官方",
+    "homepage": "https://u.tools",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "linux",
+            "explain": "Linux 命令文档速查",
+            "cmds": ["Linux"]
+         }
+    ]
+}

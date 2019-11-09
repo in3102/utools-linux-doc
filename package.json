@@ -1,0 +1,14 @@
+{
+  "name": "utools-linux-doc",
+  "version": "1.0.0",
+  "description": "Linux 文档",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "author": "beta",
+  "license": "MIT",
+  "dependencies": {
+    "highlight.js": "^9.16.2",
+    "marked": "^0.7.0"
+  }
+}
